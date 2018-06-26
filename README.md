@@ -1,3 +1,3 @@
 # tmallSpider
 
-tmall homepage merchangdise contents
+tmall homepage merchandise contents
